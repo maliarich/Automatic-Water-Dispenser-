@@ -1,5 +1,11 @@
-# Automatic-Water-Dispenser-
-This is a motor driven system that allows user to access water in a tank without touching any button/tab.
+# Automatic-Water-Dispenser Prototype-
+This is a motor driven system that allows user to access water in a tank by touching a sensor once.
 
-it can also be intergreted with toruch pad sensor for one toruch- use.
-Proceedures for building the system
+**Materials**
+*Arduino Uno *
+*Touch pad sensor*
+*Wires*
+*LED Light*
+*PC with the IDE*
+*5v motor
+*Water Container*
