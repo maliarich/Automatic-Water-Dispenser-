@@ -4,12 +4,12 @@
 
 *This is a motor driven system that allows user to access water in a tank by touching a sensor once*
 
-*We are working on this simple DIY project to help students use it in the school compound for handwashing.
-When washing hands using a conventional/traditional tap, you must touch it with your dirty hands to turn it on—leaving behind germs, bacteria, and viruses. Automatic taps controlled by a sensor are therefore a good alternative for making hand washing more hygienic, especially in schools where students live.
+*We are working on this simple DIY project to help students use it in the school compound for handwashing*
+*When washing hands using a conventional/traditional tap, you must touch it with your dirty hands to turn it on—leaving behind germs, bacteria, and viruses* *Automatic taps controlled by a sensor are therefore a good alternative for making hand washing more hygienic, especially in schools where students live*
 
 **Challenges**
 
-The mechanical part ( system to push water flow during running the system and closing  after running the system )  of the prototype has been difficult to work on.
+*The mechanical part ( system to push water flow during running the system and closing  after running the system )  of the prototype has been difficult to work on*
 
 **Future Improvements**
 
