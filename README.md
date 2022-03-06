@@ -9,7 +9,7 @@
 
 **Challenges**
 
-*The mechanical part ( system to push water flow during running the system and closing  after running the system )  of the prototype has been difficult to work on*
+*The mechanical part ( system to push water flow when running the system and closing  after running the system )  of the prototype has been difficult to work on*
 
 **Future Improvements**
 
