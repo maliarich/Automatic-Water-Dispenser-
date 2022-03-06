@@ -1,5 +1,6 @@
 # Automatic-Water-Dispenser Prototype-Rhino camp refugee settlement Uganda.
-This is a motor driven system that allows user to access water in a tank by touching a sensor once.
+This is a motor driven system that allows user to access water in a tank by touching a sensor once. working on this simple DIY project to help students use it in the school compound.
+In most schools in the refugee settlement, a water tap is used at the wash rooms. Therefore students tend to turn on the tap to wash their hands 
 
 **Materials**
 
