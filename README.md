@@ -5,6 +5,10 @@ This is a motor driven system that allows user to access water in a tank by touc
 
 *Arduino Uno*
 
+*Laptop with a IDE software
+
+*Batteries 
+
 *Touch pad sensor*
 
 *Wires*
