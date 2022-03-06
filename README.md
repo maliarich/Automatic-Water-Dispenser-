@@ -13,7 +13,7 @@
 
 **Future Improvements**
 
-*Use of Infra-red sensores (temperature sensor )
+*Use of Infra-red sensores (temperature sensor)*
 
 **Materials**
 
