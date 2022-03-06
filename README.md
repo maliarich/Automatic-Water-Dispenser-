@@ -34,7 +34,7 @@ This is a motor driven system that allows user to access water in a tank by touc
 
 **RAW CODES**
 
-// Maliamungu touch water dispenser prototype.
+``` // Maliamungu touch water dispenser prototype.
 
 
 // When Sig Output is high, touch sensor is being pressed
@@ -79,4 +79,4 @@ Serial.println("not touched");
 delay(500);
 
 
-}
+} ```
