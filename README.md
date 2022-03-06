@@ -1,14 +1,27 @@
 # Automatic-Water-Dispenser Prototype-Rhino camp refugee settlement Uganda.
-This is a motor driven system that allows user to access water in a tank by touching a sensor once. working on this simple DIY project to help students use it in the school compound.
-In most schools in the refugee settlement, a water tap is used at the wash rooms. Therefore students tend to turn on the tap to wash their hands 
+
+**Description**
+
+*This is a motor driven system that allows user to access water in a tank by touching a sensor once*
+
+*We are working on this simple DIY project to help students use it in the school compound for handwashing.
+When washing hands using a conventional/traditional tap, you must touch it with your dirty hands to turn it on—leaving behind germs, bacteria, and viruses. Automatic taps controlled by a sensor are therefore a good alternative for making hand washing more hygienic, especially in schools where students live.
+
+**Challenges**
+
+The mechanical part ( system to push water flow during running the system and closing  after running the system )  of the prototype has been difficult to work on.
+
+**Future Improvements**
+
+*Use of Infraride sensores (temperature sensor )
 
 **Materials**
 
 *Arduino Uno*
 
-*Laptop with a IDE software
+*Laptop with a IDE software*
 
-*Batteries 
+*Batteries* 
 
 *Touch pad sensor*
 
