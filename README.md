@@ -1,4 +1,4 @@
-# Automatic-Water-Dispenser Prototype-Rhino camp refugee settlement Uganda.
+# Automatic Water Dispenser Prototype - Rhino camp refugee settlement Uganda.
 
 **Description**
 
@@ -36,7 +36,7 @@
 
 *Water Container*
 
-*Bread board*
+*Bread board 
 
 
 **PICTURES**
