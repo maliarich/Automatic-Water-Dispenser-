@@ -16,6 +16,9 @@
 
 *Use of Infra-red sensores (temperature sensor)*
 
+**Vision Statement**
+Providing refugee schools with non touchable (Automatic) locally made water dispenser.
+
 **Materials**
 
 *Arduino Uno*
